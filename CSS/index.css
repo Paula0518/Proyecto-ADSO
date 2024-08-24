@@ -1,0 +1,79 @@
+
+
+
+  
+  .cuadro-flex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid #1b6b1b;
+    padding: 70px;
+    background-color: #78df85;
+  }
+  
+  /* styles.css */
+
+/* Estilos generales */
+.body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif, sans-serif;
+  background-color: #f8eac2;
+  margin: 10;
+  padding: 10;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
+.cuadrito
+ {
+            width: 200px;
+            height: 100px;
+            background-color: lightblue;
+            border: 2px solid rgb(176, 176, 176);
+            padding: 10px;
+            margin: 20px;
+        
+        }
+    
+
+
+        .cuadro-opcion
+         {
+          border: 1px solid none;
+          padding: 20px;
+          text-align: center;
+      }
+
+      /* Estilo para los botones */
+      .boton {
+          margin: 10px;
+          padding: 10px 20px;
+          border: none;
+          cursor: pointer;
+      }
+
+      .aceptar {
+          background-color: #f0f3f0;
+          color: black;
+      }
+
+      .cancelar {
+          background-color: #f3e9e9;
+          color: black;
+      }
+
+input[type="text"],
+input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #792727;
+  border-radius: 3px;
+}
+
+
+
+
+
+  
